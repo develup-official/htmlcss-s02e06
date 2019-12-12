@@ -56,6 +56,7 @@ News Room
 
 ## 알아보는 개념
 - display: table로 그리드 만들기
+- [12단 그리드](https://d.pr/n/2xvzTM)
 
 ## 이미지 리소스 출처
 Photo by Unsplash.com
